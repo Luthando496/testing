@@ -1,0 +1,143 @@
+.featured {
+  width:100%;
+  min-height:290px;
+  background:rgba(154, 179, 145, 0.7);
+}
+
+
+
+/* .shadow-lg{
+} */
+.dipl{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card:hover{
+  box-shadow: 1rem 3rem 3rem 1rem rgba(0,0,0,.175)!important;
+  cursor: pointer;
+  transition: width 2s, height 4s;
+
+}
+
+.hello{
+  display: flex;
+  justify-content: space-between;
+  font-size: 17px;
+  font-family: 'Times New Roman', Times, serif; 
+}
+
+.hy{
+  background-color: rgb(253, 253, 253);
+}
+h3 ,h1{
+  font-style: italic;
+  text-shadow: 0px 20px 3px rgba(0, 0, 0, 0.2);
+  font-size: 27px;
+  font-weight: 600;
+}
+h1{
+  font-size: 37px;
+
+}
+#handi{
+  text-shadow: 0px 20px 3px rgba(0, 0, 0, 0.2);
+  font-style: italic;
+  font-size: 27px;
+  font-weight: 600;
+  
+}
+  
+
+h1,h2,h3,h4,h5,h6{
+  margin-bottom: 0px;
+}
+
+
+
+#my-img {
+  width:  100%;
+  height: 100%;
+  object-fit:fill;
+}
+
+#price{
+  margin-bottom: 0px;
+}
+
+#prop{
+padding-right: 1px;
+}
+
+
+
+#sidebar{
+  padding-left: 0;
+  padding-top: 9px;
+}
+
+.carousel-item img{
+  object-fit: cover;
+  object-position: center;
+  height: 60vh;
+}
+
+
+.side{
+  width:  100%;
+  height: 100%;
+  background-color: rgb(219, 189, 16);
+}
+
+.profile{
+  width: 24%;
+  height: 6rem;
+  /* margin-top: 20px; */
+}
+
+#phone{
+  margin-bottom: inherit;
+
+}
+
+
+.shoe{
+  display: flex;
+  font-size: 20px;
+  /* justify-content: left; */
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 20px;
+  
+}
+
+#carouselExampleControls{
+  height: 100%;
+}
+
+.iconer{
+  margin: 10px;
+
+}
+img{
+  height: 163px;
+}
+
+
+.garden img, svg {
+  vertical-align: middle;
+  width: 31%;
+  height: 50px;
+  margin-right: 10px;
+}
+
+
+.garden{
+  width: 40%;
+}
+
+
+.swim img {
+  height: 50px;
+}
+
+
